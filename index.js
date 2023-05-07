@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         github-form-control-selectable
 // @namespace    https://github.com/KazooTTT/github-form-control-selectable
-// @version      0.1
+// @version      0.2
 // @description  enable user to select formControl element
 // @author       KazooTTT
-// @match        https://*.githb.com/*
+// @match        https://*.github.com/*
 // @icon         https://github.com/kazoottt.png
 // @license      MIT
 // @grant        none
